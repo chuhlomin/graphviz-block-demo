@@ -1,5 +1,5 @@
 {
-  "fsm.gv.txt": {
+  "*.gv.txt": {
     "default": "chuhlomin__graphviz-block__graphviz-block"
   }
 }
