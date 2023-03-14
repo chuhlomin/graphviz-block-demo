@@ -58,7 +58,7 @@ context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"Linux_kernel_
 
 <BlockComponent
 block={{"type":"file","id":"graphviz-block","title":"Graphviz Block","description":"A block that renders Graphviz file","sandbox":true,"entry":"blocks/graphviz-block/index.tsx","matches":["*.dot", "*.gv", "*.gv.txt"],"owner":"chuhlomin","repo":"graphviz-block","example_path":"https://github.com/chuhlomin/graphviz-block-demo/blob/main/cluster.gv.txt"}}
-context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"UML_Class_diagram.gv.txt","sha":"main","file":"UML_Class_diagram.gv.txt"}} height={700} />
+context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"UML_Class_diagram.gv.txt","sha":"main","file":"UML_Class_diagram.gv.txt"}} height={1200} />
 
 ## Bazel
 
@@ -76,13 +76,13 @@ context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"crazy.gv.txt"
 
 <BlockComponent
 block={{"type":"file","id":"graphviz-block","title":"Graphviz Block","description":"A block that renders Graphviz file","sandbox":true,"entry":"blocks/graphviz-block/index.tsx","matches":["*.dot", "*.gv", "*.gv.txt"],"owner":"chuhlomin","repo":"graphviz-block","example_path":"https://github.com/chuhlomin/graphviz-block-demo/blob/main/cluster.gv.txt"}}
-context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"datastruct.gv.txt","sha":"main","file":"datastruct.gv.txt"}} />
+context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"datastruct.gv.txt","sha":"main","file":"datastruct.gv.txt"}} height={750} />
 
 ## FSM
 
 <BlockComponent
 block={{"type":"file","id":"graphviz-block","title":"Graphviz Block","description":"A block that renders Graphviz file","sandbox":true,"entry":"blocks/graphviz-block/index.tsx","matches":["*.dot", "*.gv", "*.gv.txt"],"owner":"chuhlomin","repo":"graphviz-block","example_path":"https://github.com/chuhlomin/graphviz-block-demo/blob/main/cluster.gv.txt"}}
-context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"fsm.gv.txt","sha":"main","file":"fsm.gv.txt"}} height={750} />
+context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"fsm.gv.txt","sha":"main","file":"fsm.gv.txt"}} height={500} />
 
 ## Git
 
@@ -106,7 +106,7 @@ context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"kennedyanc.gv
 
 <BlockComponent
 block={{"type":"file","id":"graphviz-block","title":"Graphviz Block","description":"A block that renders Graphviz file","sandbox":true,"entry":"blocks/graphviz-block/index.tsx","matches":["*.dot", "*.gv", "*.gv.txt"],"owner":"chuhlomin","repo":"graphviz-block","example_path":"https://github.com/chuhlomin/graphviz-block-demo/blob/main/cluster.gv.txt"}}
-context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"lion_share.gv.txt","sha":"main","file":"lion_share.gv.txt"}} height={400} />
+context={{"repo":"graphviz-block-demo","owner":"chuhlomin","path":"lion_share.gv.txt","sha":"main","file":"lion_share.gv.txt"}} height={900} />
 
 ## Neural network
 
